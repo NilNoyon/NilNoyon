@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on an ERP,HRMS,E-commerce
-- 🌱 I’m currently learning aws,ml
+- 🌱 I’m currently learning aws,ml,go,rust
 - 💬 Ask me about anything
 - 📫 How to reach me: send me an email at noyon13nil@gmail.com
 - 😄 Pronouns: ...
